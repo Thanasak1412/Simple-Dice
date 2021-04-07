@@ -1,0 +1,40 @@
+body {
+    background-color: #3E3A48;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.winner {
+    width: 70%;
+    background-color: #fff;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.dice {
+    display: inline-block;
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', 'Arial', sans-serif;
+    color: #82B8A4;
+    font-size: 5rem;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial', sans-serif;
+    color: #82B8A4;
+}
+
+footer {
+    color: #fff;
+    margin-top: 30px;
+    text-align: center;
+}
